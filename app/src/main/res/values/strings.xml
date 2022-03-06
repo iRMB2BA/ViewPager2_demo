@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager2_demo_V2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="three">THREE</string>
+    <string name="second">SECOND</string>
+    <string name="one">ONE</string>
+    <string name="first">FIRST</string>
+</resources>
